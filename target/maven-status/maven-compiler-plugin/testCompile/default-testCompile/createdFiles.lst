@@ -1,0 +1,7 @@
+SimpleSerenityTest.class
+SerenityPageObjectTest.class
+SerenityBDDTest.class
+pages/ClearTripHomePage.class
+SerenityDataDrivenTest.class
+RunnerClassTest.class
+StepDefinitions.class
