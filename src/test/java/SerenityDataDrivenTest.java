@@ -1,6 +1,7 @@
 import net.serenitybdd.junit.runners.SerenityParameterizedRunner;
 import net.serenitybdd.junit.runners.SerenityRunner;
 import net.thucydides.core.annotations.Managed;
+import net.thucydides.core.annotations.Narrative;
 import net.thucydides.junit.annotations.TestData;
 import org.junit.After;
 import org.junit.Assert;
@@ -40,7 +41,6 @@ public class SerenityDataDrivenTest {
     @Test
     public void serenityDataDrivenTest() throws InterruptedException {
         WebElement element;
-
         driver.get("http://cleartrip.com");
         driver.findElement(By.linkText(link_name)).click();
         element= driver.findElement(By.tagName("h1"));
