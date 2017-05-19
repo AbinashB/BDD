@@ -15,7 +15,7 @@ import java.util.Calendar;
  * Created by dharmens on 5/9/17.
  */
 
-@RunWith(SerenityRunner.class)
+
 public class StepDefinitions extends RunnerClassTest {
 
     @Given("^I navigate to the cleartrip homepage$")

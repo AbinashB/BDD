@@ -1,6 +1,7 @@
 import cucumber.api.java.en.Given;
 import net.serenitybdd.junit.runners.SerenityRunner;
 import net.thucydides.core.annotations.Managed;
+import net.thucydides.core.annotations.Step;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Test;
@@ -19,6 +20,7 @@ public class SerenityPageObjectTest {
 
     @Managed(driver = "chrome")
     WebDriver driver;
+
 
     ClearTripHomePage homepage;
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="RunnerClassTest" time="22.067" tests="5" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="RunnerClassTest" time="40.22" tests="17" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib"/>
@@ -67,5 +67,17 @@
   <testcase name="And I select flight with &quot;Hyderabad, IN&quot; and &quot;Bangalore, IN&quot; options" classname="Scenario: Search for one way flight options from Hyderabad to Banglore" time="0"/>
   <testcase name="When I click on search flights" classname="Scenario: Search for one way flight options from Hyderabad to Banglore" time="0"/>
   <testcase name="Then list of flight options will be visible" classname="Scenario: Search for one way flight options from Hyderabad to Banglore" time="0"/>
-  <testcase name="Scenario: Search for one way flight options from Hyderabad to Banglore" classname="Scenario: Search for one way flight options from Hyderabad to Banglore" time="0.949"/>
+  <testcase name="Scenario: Search for one way flight options from Hyderabad to Banglore" classname="Scenario: Search for one way flight options from Hyderabad to Banglore" time="0.995"/>
+  <testcase name="Given I navigate to the cleartrip homepage" classname="| New Delhi | Hyderabad, IN |" time="0"/>
+  <testcase name="And choose the round trip option" classname="| New Delhi | Hyderabad, IN |" time="0"/>
+  <testcase name="And I select round flights with &quot;New Delhi&quot; and &quot;Hyderabad, IN&quot; options" classname="| New Delhi | Hyderabad, IN |" time="0"/>
+  <testcase name="When I click on search flights" classname="| New Delhi | Hyderabad, IN |" time="0"/>
+  <testcase name="Then list of flight options will be visible" classname="| New Delhi | Hyderabad, IN |" time="0"/>
+  <testcase name="| New Delhi | Hyderabad, IN |" classname="| New Delhi | Hyderabad, IN |" time="0.627"/>
+  <testcase name="Given I navigate to the cleartrip homepage" classname="| Mumbai | New Delhi |" time="0"/>
+  <testcase name="And choose the round trip option" classname="| Mumbai | New Delhi |" time="0"/>
+  <testcase name="And I select round flights with &quot;Mumbai&quot; and &quot;New Delhi&quot; options" classname="| Mumbai | New Delhi |" time="0"/>
+  <testcase name="When I click on search flights" classname="| Mumbai | New Delhi |" time="0"/>
+  <testcase name="Then list of flight options will be visible" classname="| Mumbai | New Delhi |" time="0"/>
+  <testcase name="| Mumbai | New Delhi |" classname="| Mumbai | New Delhi |" time="0.684"/>
 </testsuite>

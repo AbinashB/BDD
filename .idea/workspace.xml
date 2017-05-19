@@ -2,74 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="440253f0-d27f-4a3a-a9c6-27e9036f8454" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/069f424655c6ab5906bcddf680d239fbff4b042f7b5362196c783fcf851994e2.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/069f424655c6ab5906bcddf680d239fbff4b042f7b5362196c783fcf851994e2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/0da1f2068c9cd84184ef0ca2da0637d0d6c698e4ac49ff25e4e79c4d9846c979.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/0da1f2068c9cd84184ef0ca2da0637d0d6c698e4ac49ff25e4e79c4d9846c979.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/109c39da49b9d6a8f0b79e06ab83d83d6a8a673b88128175a2c05fe562aae487.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/11b36de652a9078cdf53e4deec70f24654c44b1076bba787be80873d5adaf12e.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/11b36de652a9078cdf53e4deec70f24654c44b1076bba787be80873d5adaf12e.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/143a580d467ed2a65b66ea3419f6b03c5822761ab0a63793be84dd6fb28b6a87.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/143a580d467ed2a65b66ea3419f6b03c5822761ab0a63793be84dd6fb28b6a87.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/1a0f76ce95c6f0f638946852d5a389723714034cf823ff6f261a46254ffeb62f.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/29a89192f5cfa63c774921294d9a17549cb9dec7cbf95246b8591e6fc8c1fc9a.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/29a89192f5cfa63c774921294d9a17549cb9dec7cbf95246b8591e6fc8c1fc9a.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/3d2871ef9911e9892794a9042e262e6b82ae98dff337dd2d2e4d80be2072e38e.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/3d2871ef9911e9892794a9042e262e6b82ae98dff337dd2d2e4d80be2072e38e.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/413d70c6c4e1711b885715316c145d340f9c934540c20c51365cffcd4835d60f.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/413d70c6c4e1711b885715316c145d340f9c934540c20c51365cffcd4835d60f.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/42b8bcda47ec1689fafd91884dcbbf816438ed80bfc5e3b24b3fab5631071659.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/42b8bcda47ec1689fafd91884dcbbf816438ed80bfc5e3b24b3fab5631071659.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/42cce2c9a2f6c65687ea45da90c4579e44b76c7f8fe1a6104583a077569c3780.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/42cce2c9a2f6c65687ea45da90c4579e44b76c7f8fe1a6104583a077569c3780.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/588b5fb4d9bc5fb525a087017693aa98a82b77f52ed5a85d55b7ed5c072cf98b.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/588b5fb4d9bc5fb525a087017693aa98a82b77f52ed5a85d55b7ed5c072cf98b.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/60af20c115de8f024e0eb74addd39ee14f89efce07c7af5ca6db5dce60ec3751.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/710286f9fac4e3cb2c65c63de37f731bf248f8cde246318f6b0ebdfda53ff5f9.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/7a1b509b109d322342a41f31127e77695653bf7bcefde67ffbcbd8371a474424.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/8aae329ab7fe44075add7c6fc37ddc4afba6f55b733799375dfd0a8520484fc1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/8d108ad7e9864d5f9c3458056cecac4609d3c5360e3fc45db6c9c12ac98db25f.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/8d108ad7e9864d5f9c3458056cecac4609d3c5360e3fc45db6c9c12ac98db25f.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/8f707aed8ea265963bd831260f44c71ba651d7d39d3c0d837267335421c304a1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/9f801b6228d130951e6df1a05d45185f6ae07644866bcbe6cd76bf1375e6060a.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/b18845bfc0ce06e5e9b74ccf534c40458aad705c93f99ab1f25884b5365b4ce2.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/b18845bfc0ce06e5e9b74ccf534c40458aad705c93f99ab1f25884b5365b4ce2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/b89ad9740f394d8466b84984637a914b96fef76172f88f018b6d60ab887df316.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/b8c0f49eb9cf8f28d6f04565ce23a18ec670d841bfcfb387216ed8757e5cf096.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/b8c0f49eb9cf8f28d6f04565ce23a18ec670d841bfcfb387216ed8757e5cf096.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/bfa690416ad14d2ca1f4026ee54dcb81ddee0197163d0a04f07b95f156d5f84a.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/bfa690416ad14d2ca1f4026ee54dcb81ddee0197163d0a04f07b95f156d5f84a.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/build-info.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/c1b03e5c071160f48ba926d81a1cc12d963d1840e63598a84623b0007f0f4844.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/c1b03e5c071160f48ba926d81a1cc12d963d1840e63598a84623b0007f0f4844.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/capabilities.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/cd71461f9f1d0901ea181d883e7e1011b0c80c95486710b61749002470200890.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/ce01420d778dbf23f238754b30855c93e8dc6e4f66f8ce709d27f699fddf9d60.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/ce01420d778dbf23f238754b30855c93e8dc6e4f66f8ce709d27f699fddf9d60.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/cff3fce033dd86320bdf3afd395255e3f45071a8cfc81956f0aca778f3cd5f44.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/cff3fce033dd86320bdf3afd395255e3f45071a8cfc81956f0aca778f3cd5f44.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/df5df831404cc0bacd1fb79c1a4277ab50e90b4b194aa4682b283b702d10f4c2.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/results.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/scaled_60af20c115de8f024e0eb74addd39ee14f89efce07c7af5ca6db5dce60ec3751.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/scaled_7a1b509b109d322342a41f31127e77695653bf7bcefde67ffbcbd8371a474424.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/scaled_8aae329ab7fe44075add7c6fc37ddc4afba6f55b733799375dfd0a8520484fc1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/scaled_b89ad9740f394d8466b84984637a914b96fef76172f88f018b6d60ab887df316.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/scaled_cd71461f9f1d0901ea181d883e7e1011b0c80c95486710b61749002470200890.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-11b36de652a9078cdf53e4deec70f24654c44b1076bba787be80873d5adaf12e.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-42b8bcda47ec1689fafd91884dcbbf816438ed80bfc5e3b24b3fab5631071659.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/BDD-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/BDD-1.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/RunnerClassTest.class" afterPath="$PROJECT_DIR$/target/test-classes/RunnerClassTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/SerenityDataDrivenTest.class" afterPath="$PROJECT_DIR$/target/test-classes/SerenityDataDrivenTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/SerenityPageObjectTest.class" afterPath="$PROJECT_DIR$/target/test-classes/SerenityPageObjectTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/StepDefinitions.class" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinitions.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/RunnerClassTest.java" afterPath="$PROJECT_DIR$/src/test/java/RunnerClassTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/SerenityDataDrivenTest.java" afterPath="$PROJECT_DIR$/src/test/java/SerenityDataDrivenTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/SerenityPageObjectTest.java" afterPath="$PROJECT_DIR$/src/test/java/SerenityPageObjectTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/StepDefinitions.java" afterPath="$PROJECT_DIR$/src/test/java/StepDefinitions.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/features/OneWayFlightReservation.feature" afterPath="$PROJECT_DIR$/src/test/java/features/OneWayFlightReservation.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/features/TwoWayFlightReservation.feature" afterPath="$PROJECT_DIR$/src/test/java/features/TwoWayFlightReservation.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-29a89192f5cfa63c774921294d9a17549cb9dec7cbf95246b8591e6fc8c1fc9a.xml" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-29a89192f5cfa63c774921294d9a17549cb9dec7cbf95246b8591e6fc8c1fc9a.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-c1b03e5c071160f48ba926d81a1cc12d963d1840e63598a84623b0007f0f4844.xml" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-c1b03e5c071160f48ba926d81a1cc12d963d1840e63598a84623b0007f0f4844.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-e405ecb82ffea54b90ee8833db94846df155189e39d2bc410712dadd7bed762c.xml" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-e405ecb82ffea54b90ee8833db94846df155189e39d2bc410712dadd7bed762c.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/e405ecb82ffea54b90ee8833db94846df155189e39d2bc410712dadd7bed762c.html" afterPath="$PROJECT_DIR$/target/site/serenity/e405ecb82ffea54b90ee8833db94846df155189e39d2bc410712dadd7bed762c.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/e405ecb82ffea54b90ee8833db94846df155189e39d2bc410712dadd7bed762c.json" afterPath="$PROJECT_DIR$/target/site/serenity/e405ecb82ffea54b90ee8833db94846df155189e39d2bc410712dadd7bed762c.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/e405ecb82ffea54b90ee8833db94846df155189e39d2bc410712dadd7bed762c_screenshots.html" afterPath="$PROJECT_DIR$/target/site/serenity/e405ecb82ffea54b90ee8833db94846df155189e39d2bc410712dadd7bed762c_screenshots.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/summary.txt" afterPath="$PROJECT_DIR$/target/site/serenity/summary.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/RunnerClassTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/RunnerClassTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/SerenityBDDTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/SerenityBDDTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/SerenityDataDrivenTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/SerenityDataDrivenTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/SerenityPageObjectTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/SerenityPageObjectTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/SimpleSerenityTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/SimpleSerenityTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-RunnerClassTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-RunnerClassTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-SerenityBDDTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-SerenityBDDTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-SerenityDataDrivenTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-SerenityDataDrivenTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-SerenityPageObjectTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-SerenityPageObjectTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-SimpleSerenityTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-SimpleSerenityTest.xml" />
     </list>
     <ignored path="BDD.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -92,11 +57,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+            <state relative-caret-position="384">
+              <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -105,8 +70,8 @@
       <file leaf-file-name="SerenityPageObjectTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/SerenityPageObjectTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+            <state relative-caret-position="340">
+              <caret line="40" column="1" selection-start-line="17" selection-start-column="0" selection-end-line="40" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -115,14 +80,9 @@
       <file leaf-file-name="SerenityBDDTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/SerenityBDDTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
-              <folding>
-                <element signature="e#911#912#0" expanded="true" />
-                <element signature="e#961#962#0" expanded="true" />
-                <element signature="e#1024#1025#0" expanded="true" />
-                <element signature="e#1090#1091#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="435">
+              <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -130,8 +90,8 @@
       <file leaf-file-name="StepDefinitions.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/StepDefinitions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+            <state relative-caret-position="160">
+              <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -140,8 +100,8 @@
       <file leaf-file-name="RunnerClassTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/RunnerClassTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="53" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="53" />
+            <state relative-caret-position="210">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -152,9 +112,21 @@
       <file leaf-file-name="OneWayFlightReservation.feature" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/features/OneWayFlightReservation.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="35" />
+            <state relative-caret-position="225">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClearTripHomePage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/ClearTripHomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="21" column="20" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -162,18 +134,8 @@
       <file leaf-file-name="TwoWayFlightReservation.feature" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/features/TwoWayFlightReservation.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -182,8 +144,8 @@
       <file leaf-file-name="SimpleSerenityTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/SimpleSerenityTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            <state relative-caret-position="270">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -194,12 +156,9 @@
       <file leaf-file-name="SerenityDataDrivenTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/SerenityDataDrivenTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
+            <state relative-caret-position="235">
               <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-              <folding>
-                <element signature="e#1082#1083#0" expanded="true" />
-                <element signature="e#1124#1125#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -224,21 +183,21 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Test1.java" />
         <option value="$PROJECT_DIR$/src/test/java/Test2.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/ClearTripHomePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/Test3.java" />
         <option value="$PROJECT_DIR$/src/test/java/Test4.java" />
-        <option value="$PROJECT_DIR$/src/test/java/StepDefinitions.java" />
         <option value="$PROJECT_DIR$/src/test/java/SimpleSerenityTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/SerenityPageObjectTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/SerenityBDDTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/SerenityDataDrivenTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/features/OneWayFlightReservation.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/RunnerClassTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/features/TwoWayFlightReservation.feature" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/test/java/SerenityPageObjectTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SerenityBDDTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/features/OneWayFlightReservation.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/features/TwoWayFlightReservation.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/RunnerClassTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -250,8 +209,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="130" />
-    <option name="y" value="46" />
+    <option name="x" value="41" />
+    <option name="y" value="38" />
     <option name="width" value="1440" />
     <option name="height" value="805" />
   </component>
@@ -280,7 +239,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -300,8 +258,137 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BDD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BDD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BDD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BDD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="serenity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BDD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BDD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BDD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BDD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BDD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BDD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="features" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BDD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BDD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -326,27 +413,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SimpleSerenityTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="SerenityDataDrivenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="BDD" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SerenityDataDrivenTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -425,6 +491,27 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="BDD" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="StepDefinitions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="BDD" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StepDefinitions" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -695,18 +782,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.SimpleSerenityTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.SerenityDataDrivenTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.SerenityBDDTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.RunnerClassTest" />
-      <item index="4" class="java.lang.String" itemvalue="Cucumber java.Feature: OneWayFlightReservation" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SerenityBDDTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.RunnerClassTest" />
+      <item index="3" class="java.lang.String" itemvalue="Cucumber java.Feature: OneWayFlightReservation" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.StepDefinitions" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="JUnit.RunnerClassTest" />
-        <item index="1" class="java.lang.String" itemvalue="Cucumber java.Feature: OneWayFlightReservation" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.SerenityBDDTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SerenityDataDrivenTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.SimpleSerenityTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SerenityBDDTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.StepDefinitions" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SimpleSerenityTest" />
+        <item index="4" class="java.lang.String" itemvalue="Cucumber java.Feature: OneWayFlightReservation" />
       </list>
     </recent_temporary>
   </component>
@@ -727,54 +814,54 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Feature__OneWayFlightReservation - 2017.05.18 at 13h 04m 50s.xml">
-      <configuration name="Feature: OneWayFlightReservation" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__OneWayFlightReservation - 2017.05.18 at 13h 05m 36s.xml">
-      <configuration name="Feature: OneWayFlightReservation" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="RunnerClassTest - 2017.05.18 at 12h 59m 24s.xml">
+    <history-entry file="RunnerClassTest - 2017.05.19 at 16h 58m 25s.xml">
       <configuration name="RunnerClassTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunnerClassTest - 2017.05.18 at 13h 00m 10s.xml">
+    <history-entry file="RunnerClassTest - 2017.05.19 at 17h 10m 09s.xml">
       <configuration name="RunnerClassTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunnerClassTest - 2017.05.18 at 13h 01m 55s.xml">
+    <history-entry file="RunnerClassTest - 2017.05.19 at 17h 10m 56s.xml">
       <configuration name="RunnerClassTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunnerClassTest - 2017.05.18 at 13h 27m 23s.xml">
+    <history-entry file="RunnerClassTest - 2017.05.19 at 17h 19m 26s.xml">
       <configuration name="RunnerClassTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunnerClassTest - 2017.05.18 at 13h 30m 46s.xml">
+    <history-entry file="RunnerClassTest - 2017.05.19 at 17h 20m 17s.xml">
       <configuration name="RunnerClassTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test2 - 2017.05.18 at 12h 33m 13s.xml">
-      <configuration name="Test2" configurationId="JUnit" />
+    <history-entry file="RunnerClassTest - 2017.05.19 at 17h 23m 08s.xml">
+      <configuration name="RunnerClassTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test4 - 2017.05.18 at 12h 50m 32s.xml">
-      <configuration name="Test4" configurationId="JUnit" />
+    <history-entry file="RunnerClassTest - 2017.05.19 at 17h 24m 54s.xml">
+      <configuration name="RunnerClassTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test4 - 2017.05.18 at 12h 53m 08s.xml">
-      <configuration name="Test4" configurationId="JUnit" />
+    <history-entry file="RunnerClassTest - 2017.05.19 at 17h 28m 39s.xml">
+      <configuration name="RunnerClassTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SerenityBDDTest - 2017.05.19 at 17h 09m 32s.xml">
+      <configuration name="SerenityBDDTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StepDefinitions - 2017.05.19 at 17h 08m 10s.xml">
+      <configuration name="StepDefinitions" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="130" y="46" width="1440" height="805" extended-state="0" />
-    <editor active="true" />
+    <frame x="41" y="38" width="1440" height="805" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4388587" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4388587" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4722222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -810,123 +897,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SimpleSerenityTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SerenityDataDrivenTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
-          <folding>
-            <element signature="e#1082#1083#0" expanded="true" />
-            <element signature="e#1124#1125#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SimpleSerenityTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SerenityDataDrivenTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
-          <folding>
-            <element signature="e#1082#1083#0" expanded="true" />
-            <element signature="e#1124#1125#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SimpleSerenityTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SerenityDataDrivenTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
-          <folding>
-            <element signature="e#1082#1083#0" expanded="true" />
-            <element signature="e#1124#1125#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="59" selection-start-line="36" selection-start-column="59" selection-end-line="36" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SimpleSerenityTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/ClearTripHomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        <state relative-caret-position="720">
+          <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -941,41 +913,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SerenityBDDTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
-          <folding>
-            <element signature="e#911#912#0" expanded="true" />
-            <element signature="e#961#962#0" expanded="true" />
-            <element signature="e#1024#1025#0" expanded="true" />
-            <element signature="e#1090#1091#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SerenityDataDrivenTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding>
-            <element signature="e#1082#1083#0" expanded="true" />
-            <element signature="e#1124#1125#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SimpleSerenityTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="285">
+          <caret line="40" column="9" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/StepDefinitions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
+        <state relative-caret-position="600">
           <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
           <folding />
         </state>
@@ -983,7 +929,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/RunnerClassTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="90">
           <caret line="10" column="53" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1010,7 +956,215 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SimpleSerenityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SerenityDataDrivenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SimpleSerenityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SerenityDataDrivenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SimpleSerenityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SerenityDataDrivenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SimpleSerenityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SerenityDataDrivenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="59" selection-start-line="36" selection-start-column="59" selection-end-line="36" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SimpleSerenityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SimpleSerenityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SerenityPageObjectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="40" column="1" selection-start-line="17" selection-start-column="0" selection-end-line="40" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SerenityDataDrivenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SerenityBDDTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/ClearTripHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/StepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/features/OneWayFlightReservation.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/features/TwoWayFlightReservation.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RunnerClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
           <folding />
         </state>
       </provider>

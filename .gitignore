@@ -1,4 +1,3 @@
-*.xml
-*.class
-*.png
+.gitignore
+src/main
 target/

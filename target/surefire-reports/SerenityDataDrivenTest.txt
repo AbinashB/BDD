@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: SerenityDataDrivenTest
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 47.448 sec - in SerenityDataDrivenTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 41.435 sec - in SerenityDataDrivenTest
