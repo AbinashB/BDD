@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="440253f0-d27f-4a3a-a9c6-27e9036f8454" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-29a89192f5cfa63c774921294d9a17549cb9dec7cbf95246b8591e6fc8c1fc9a.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-42b8bcda47ec1689fafd91884dcbbf816438ed80bfc5e3b24b3fab5631071659.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-c1b03e5c071160f48ba926d81a1cc12d963d1840e63598a84623b0007f0f4844.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-e405ecb82ffea54b90ee8833db94846df155189e39d2bc410712dadd7bed762c.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/e405ecb82ffea54b90ee8833db94846df155189e39d2bc410712dadd7bed762c.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/e405ecb82ffea54b90ee8833db94846df155189e39d2bc410712dadd7bed762c.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/e405ecb82ffea54b90ee8833db94846df155189e39d2bc410712dadd7bed762c_screenshots.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/summary.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/SimpleSerenityTest.class" afterPath="$PROJECT_DIR$/target/test-classes/SimpleSerenityTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/SerenityDataDrivenTest.java" afterPath="$PROJECT_DIR$/src/test/java/SerenityDataDrivenTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/SerenityPageObjectTest.java" afterPath="$PROJECT_DIR$/src/test/java/SerenityPageObjectTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/SimpleSerenityTest.java" afterPath="$PROJECT_DIR$/src/test/java/SimpleSerenityTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-11b36de652a9078cdf53e4deec70f24654c44b1076bba787be80873d5adaf12e.xml" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-11b36de652a9078cdf53e4deec70f24654c44b1076bba787be80873d5adaf12e.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" />
-    </list>
+    <list default="true" id="440253f0-d27f-4a3a-a9c6-27e9036f8454" name="Default" comment="" />
     <ignored path="BDD.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -59,10 +43,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SerenityBDDTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SerenityBDDTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/SerenityBDDTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
+            <state relative-caret-position="355">
               <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
               <folding />
             </state>
@@ -82,8 +66,8 @@
       <file leaf-file-name="RunnerClassTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/RunnerClassTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+            <state relative-caret-position="255">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -116,8 +100,8 @@
       <file leaf-file-name="TwoWayFlightReservation.feature" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/features/TwoWayFlightReservation.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="32" />
+            <state relative-caret-position="135">
+              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -135,11 +119,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SerenityDataDrivenTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SerenityDataDrivenTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/SerenityDataDrivenTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+            <state relative-caret-position="130">
+              <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -1141,14 +1125,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SerenityBDDTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/ClearTripHomePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1156,22 +1132,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/features/OneWayFlightReservation.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/features/TwoWayFlightReservation.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1188,16 +1148,6 @@
         <state relative-caret-position="160">
           <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RunnerClassTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1221,8 +1171,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SerenityDataDrivenTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+        <state relative-caret-position="130">
+          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/features/OneWayFlightReservation.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/features/TwoWayFlightReservation.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RunnerClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SerenityBDDTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
           <folding />
         </state>
       </provider>
