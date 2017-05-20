@@ -32,8 +32,5 @@ public class SimpleSerenityTest {
         Assert.assertTrue(element.getText().contains(link_name.toLowerCase()));
     }
 
-    @After
-    public void tearDown(){
-        driver.quit();
-    }
+
 }

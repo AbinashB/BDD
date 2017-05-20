@@ -47,8 +47,5 @@ public class SerenityDataDrivenTest {
         Assert.assertTrue(element.getText().contains(link_name.toLowerCase()));
     }
 
-    @After
-    public void tearDown(){
-        driver.quit();
-    }
+
 }

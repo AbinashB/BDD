@@ -34,8 +34,5 @@ public class SerenityPageObjectTest {
         Assert.assertTrue(headertext.contains(link_name.toLowerCase()));
     }
 
-    @After
-    public void tearDown(){
-        driver.quit();
-    }
+
 }
